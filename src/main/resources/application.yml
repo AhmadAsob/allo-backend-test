@@ -1,0 +1,4 @@
+app:
+  frankfurter-api:
+    base-url: https://api.frankfurter.app
+    timeout: 5000
